@@ -45,7 +45,7 @@ setCachePolicy(\|setConfiguration(\|setData(\|setDisableBounce(\|setDisableConte
 grep -H -r -n --color --exclude-dir={} 'put_one_of_the_blocks_here' /path/to/your/app/folder/
 ```
 
-- **-r** recursive research
+- **-r** recursive
 - **-n** displays the line number of the file in which the search result is located
 - **--exckude-dir{}** if some folders are to be excluded from the search, they can be inserted into the brackets (use the commas for multiple folders)
 
